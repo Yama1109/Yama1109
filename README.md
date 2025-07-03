@@ -5,8 +5,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 Im student.
-- 🌱 I'm always interested in learning new technologies and improving the developer experience.
+- 🧑‍💻 I'm a student **currently learning software development**. My journey is focused on exploring **API design**, **frontend development**, **cloud technologies**, and **infrastructure**. I'm also keen on understanding and designing robust **software architectures**.
+- 🌱 As a beginner, I'm always eager to learn new technologies and contribute to improving the developer experience.
 
 
 ## 🌱 Skills
