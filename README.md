@@ -22,4 +22,4 @@
 
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yama1109)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-readme-stats-omega-eight-22.vercel.app/?username=Yama1109)](https://github.com/ryo-ma/github-profile-trophy)
