@@ -5,7 +5,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 I'm a **Computer Science student (M.S. starting this April)** from Japan 🇯🇵  
-Currently passionate about **building real products with friends**, learning from strong engineers, and growing through hands-on development.
 
 ---
 
@@ -24,14 +23,6 @@ Currently passionate about **building real products with friends**, learning fro
 ## 🌱 Skills & Interests
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,nodejs,typescript,docker,postgresql,redis" />
-
-- Backend: API design, data modeling
-- Frontend: Feature-driven UI development
-- Infrastructure: Docker, cloud basics
-- Currently learning:
-  - Software architecture
-  - Scalability & system design
-  - Security fundamentals
 
 ---
 
