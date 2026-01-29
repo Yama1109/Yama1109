@@ -36,4 +36,4 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan 🇯�
 ---
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yama1109)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
