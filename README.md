@@ -30,7 +30,7 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan ğŸ‡¯ğŸ‡
 
 <div align="left"> 
   <img alt="github stats" height="170px" src="https://github-readme-stats-omega-eight-22.vercel.app/api?username=Yama1109&theme=vue-dark&layout=compact&show_icons=true&count_private=true" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-omega-eight-22.vercel.app/api/top-langs/?username=Yama1109&theme=vue-dark&layout=compact&count_private=true&hide=TeX,BibTeX_Style" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-omega-eight-22.vercel.app/api/top-langs/?username=Yama1109&theme=vue-dark&layout=compact&count_private=true&hide=TeX,BibTeX%20Style" />
 </div>
 
 ---
