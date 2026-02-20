@@ -22,7 +22,7 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan 🇯�
 
 ## 🌱 Skills & Interests
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,nodejs,typescript,docker,postgresql,redis" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,typescript,docker,postgresql" />
 
 ---
 
