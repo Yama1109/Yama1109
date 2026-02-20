@@ -33,7 +33,4 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan 🇯�
   <img alt="Top Langs" height="170px" src="https://github-readme-stats-omega-eight-22.vercel.app/api/top-langs/?username=Yama1109&theme=vue-dark&layout=compact&count_private=true&hide=TeX,BibTeX%20Style" />
 </div>
 
----
 
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
