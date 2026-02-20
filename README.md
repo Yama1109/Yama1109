@@ -18,11 +18,11 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan 🇯�
   - Learning aggressively from better engineers
   - Turning vague ideas into working products
 
----
+--
 
 ## 🌱 Skills & Interests
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,typescript,docker,postgresql" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,typescript,docker,postgresql,vscode" />
 
 ---
 
