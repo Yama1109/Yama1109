@@ -8,11 +8,11 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan 🇯�
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **Computer Science major (28卒 / entering graduate school)**
-- 🚀 Interested in **product-driven development**, not just coding tasks
-- 💡 I enjoy:
+- **Computer Science major (28卒 / entering graduate school)**
+- Interested in **product-driven development**, not just coding tasks
+- I enjoy:
   - Defining requirements by ourselves
   - Iterating on features daily
   - Learning aggressively from better engineers
@@ -20,13 +20,13 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan 🇯�
 
 --
 
-## 🌱 Skills & Interests
+## Skills & Interests
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,typescript,docker,postgresql,vscode" />
 
 ---
 
-## 🏃‍♀️ Activities
+## Activities
 
 <div align="left"> 
   <img alt="github stats" height="170px" src="https://github-readme-stats-omega-eight-22.vercel.app/api?username=Yama1109&theme=vue-dark&layout=compact&show_icons=true&count_private=true" />
