@@ -10,7 +10,7 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan 🇯�
 
 ## About Me
 
-- **Computer Science major (28卒 / entering graduate school)**
+- **Computer Science major (Class of 2028 / M.S. student)**
 - Interested in **product-driven development**, not just coding tasks
 - I enjoy:
   - Defining requirements by ourselves
