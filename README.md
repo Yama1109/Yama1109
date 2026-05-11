@@ -18,7 +18,7 @@ I'm a **Computer Science student (M.S. starting this April)** from Japan ğŸ‡¯ğŸ‡
   - Learning aggressively from better engineers
   - Turning vague ideas into working products
 
---
+---
 
 ## Skills & Interests
 
