@@ -45,7 +45,7 @@ The proposed method outperformed existing baselines, achieving flexible and low-
 
 ## Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,go,ts,nextjs,react,tailwind,postgres,mysql,redis,docker,gcp,aws,terraform" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,go,ts,nextjs,react,tailwind,postgres,mysql,redis,docker,gcp,aws,cloudflare,terraform" />
 
 ---
 
