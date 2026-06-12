@@ -29,20 +29,6 @@ That's the kind of engineer I want to be, and the kind of products I want to bui
 
 ---
 
-## Research
-
-**Few-Shot Texture Image Classification via Adaptive LayerNorm with Hypernetworks**
-
-Identifying wallpaper and flooring product codes has traditionally required manual comparison against thick catalogs — a costly, unscalable process.
-I tackled this with **meta-learning** (learning to learn), enabling a model to adapt to unseen texture domains and new product classes from just a few samples, without retraining from scratch.
-
-The key insight: in texture recognition, **inter-channel correlations and statistical features dominate over global shape**.  
-By applying style-transfer techniques from image generation to the meta-learning adaptation mechanism, the model dynamically extracts the "texture feel" of an unseen image and adapts itself on the fly.
-
-The proposed method outperformed existing baselines, achieving flexible and low-cost adaptation to new classes — directly addressing real-world industry needs.
-
----
-
 ## Skills
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=python,fastapi,go,ts,nextjs,react,tailwind,postgres,mysql,redis,docker,gcp,aws,cloudflare,terraform" />
