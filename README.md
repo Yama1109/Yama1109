@@ -39,5 +39,5 @@ That's the kind of engineer I want to be, and the kind of products I want to bui
 
 <div align="left"> 
   <img alt="github stats" height="170px" src="https://github-readme-stats-omega-eight-22.vercel.app/api?username=Yama1109&theme=vue-dark&layout=compact&show_icons=true&count_private=true" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats-omega-eight-22.vercel.app/api/top-langs/?username=Yama1109&theme=vue-dark&layout=compact&count_private=true&hide=TeX,BibTeX%20Style,Jupyter%20Notebook" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-omega-eight-22.vercel.app/api/top-langs/?username=Yama1109&theme=vue-dark&layout=compact&count_private=true&hide=TeX,BibTeX%20Style,Jupyter%20Notebook&v=3dd82db" />
 </div>
